@@ -1,5 +1,6 @@
 
 # ScreenShot Of BookStore
+# Admin Dashboard
 
 ## Login Page
 ![login](https://user-images.githubusercontent.com/71565716/175075095-cda06fd5-1612-4394-8b4c-c6b8b86ee955.PNG)
@@ -22,3 +23,9 @@
 ![updateprofile](https://user-images.githubusercontent.com/71565716/175075568-c9a79554-5670-491e-99f5-2e46e2cee68a.PNG)
 
 
+# Seller Dashboard
+![sellerdashboard](https://user-images.githubusercontent.com/71565716/175078796-9d59098c-2ac0-4455-a002-a3d8b93239f2.PNG)
+
+
+# Buyer Dashboard
+![buyerdashboard](https://user-images.githubusercontent.com/71565716/175078192-926f71a0-fc8b-4ec6-8dce-d86826e5d46e.PNG)
